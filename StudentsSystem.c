@@ -3,7 +3,7 @@
 #include <string.h>
 #include <stdbool.h>
 /*
-Pogram summary -
+Pogram summary:
 The pogram is system that get information about 3 group of students that 6 student in each group
 the pogram get Full name, ID, courses and grades.
 ask the user for specific course number and give him the students in this group and change specific name (Lois) to different name (Lane)
